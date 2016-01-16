@@ -12,3 +12,4 @@ PS:要每天打卡，监督自己不能偷懒。
 ##### [1.13](http://blog.sina.com.cn/s/blog_6943c2590102w79z.html)
 ##### [1.14](http://blog.sina.com.cn/s/blog_6943c2590102w7ez.html)
 ##### [1.15](http://blog.sina.com.cn/s/blog_6943c2590102w7k9.html)
+##### [test2](https://github.com/skykobe/MyLearningNote/issues/2)
