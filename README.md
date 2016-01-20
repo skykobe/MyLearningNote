@@ -15,3 +15,4 @@ PS:要每天打卡，监督自己不能偷懒。
 ##### [1.16](https://github.com/skykobe/MyLearningNote/issues/3)
 ##### [1.17](https://github.com/skykobe/MyLearningNote/issues/4)
 ##### [1.18](https://github.com/skykobe/MyLearningNote/issues/5)
+##### [1.20](https://github.com/skykobe/MyLearningNote/issues/6)
