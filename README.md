@@ -3,7 +3,7 @@ record the thing what I learn recently
 ## 我的2016寒假计划
 
       1.学习，会简单使用angular.js 
-      2.学习Node.js
+      2.学习Node.js (由于新版的express4把命令行分离了出来，所以安装express-generator才能使用命令行)
       3.继续工作室的上海项目
       
 #### 最后希望自己能在假期结束前，运用这两个知识制作一个小网页
