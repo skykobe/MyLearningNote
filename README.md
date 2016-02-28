@@ -21,5 +21,6 @@ PS:要每天打卡，监督自己不能偷懒。
 ##### [2.2](https://github.com/skykobe/MyLearningNote/issues/9)
 ##### [2.4](https://github.com/skykobe/MyLearningNote/issues/10)
 ##### [2.6](https://github.com/skykobe/MyLearningNote/issues/11)
+##### [2.28](https://github.com/skykobe/MyLearningNote/issues/12)
 
 ### 这几天开始做一个web app打算是做一个留言版，希望能在开学前做好，不然开学后好多东西做
